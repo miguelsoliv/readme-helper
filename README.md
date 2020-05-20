@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img alt="Use README image" width="800" src="https://miro.medium.com/max/2400/1*oppPsIqwEiB_kndtd6GWxA.png">
+  <img alt="Use README image" width="800" src=".github/make-a-readme.png">
 </h1>
 
-### Badges using [Shields.io](https://shields.io) with github integration [• [Github page](https://github.com/badges/shields)]
+## Badges using [Shields.io](https://shields.io) with github integration [• [Github page](https://github.com/badges/shields)]
 
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/miguelsoliv/readme-helper">
@@ -18,9 +18,9 @@
   </a>
 </p>
 
-###### "Repo not found" because this repo is private
+#### "Repo not found" because this repo is private
 
-### Using icons in badges with [Simple Icons](https://simpleicons.org) [• [Github page](https://github.com/simple-icons/simple-icons)]
+## Using icons in badges with [Simple Icons](https://simpleicons.org) [• [Github page](https://github.com/simple-icons/simple-icons)]
 
 <p align="center">
   <a href="https://github.com/miguelsoliv" target="_blank" >
