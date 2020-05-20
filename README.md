@@ -2,7 +2,23 @@
   <img alt="Use README image" width="800" src=".github/make-a-readme.png">
 </h1>
 
-## Badges using [Shields.io](https://shields.io) with github integration [• [Github page](https://github.com/badges/shields)]
+<p align="center">
+  <a href="#medal-sports-badges">Using badges</a>&nbsp;|&nbsp;
+  <a href="#sparkles-icons-in-badges">Putting icons in badges</a>&nbsp;|&nbsp;
+  <a href="#mag-emojis">Emojis</a>&nbsp;|&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
+## :pushpin: Another Table of Contents
+
+* [Using badges](#medal-sports-badges)
+* [Putting icons in badges](#sparkles-icons-in-badges)
+* [Emojis](#mag-emojis)
+* [License](#memo-license)
+
+## :medal_sports: Badges
+
+Using [Shields.io](https://shields.io) with github integration [• [Github page](https://github.com/badges/shields)]
 
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/miguelsoliv/readme-helper">
@@ -18,9 +34,11 @@
   </a>
 </p>
 
-#### "Repo not found" because this repo is private
+###### "Repo not found" because this repo is private
 
-## Using icons in badges with [Simple Icons](https://simpleicons.org) [• [Github page](https://github.com/simple-icons/simple-icons)]
+## :sparkles: Icons in badges
+
+Using [Simple Icons](https://simpleicons.org) [• [Github page](https://github.com/simple-icons/simple-icons)]
 
 <p align="center">
   <a href="https://github.com/miguelsoliv" target="_blank" >
@@ -34,7 +52,7 @@
   </a>
 </p>
 
-### :bookmark_tabs: Using emojis
+## :mag: Emojis
 
 Just put them between `:` like `:cookie:` :cookie:
 
@@ -46,3 +64,11 @@ List of emojis available in Github Markdown:
 - [Github Gist](https://gist.github.com/rxaviers/7360908) from rxaviers (user)
 - [Github Gist](https://gist.github.com/ricealexander/ae8b8cddc3939d6ba212f953701f53e6) from ricealexander (user)
 - [Github API](https://api.github.com/emojis)
+
+## :memo: License
+
+This project is under [MIT license](/LICENSE).
+
+---
+
+Made with :sparkling_heart: by [Miguel Oliveira](https://github.com/miguelsoliv)
