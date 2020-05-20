@@ -2,8 +2,11 @@
   <img alt="Use README image" width="800" src=".github/make-a-readme.png">
 </h1>
 
+<h3 align="center" >
+  You can put a description for your application here
+</h3>
+
 <p align="center">
-  <a href="#medal-sports-badges">Using badges</a>&nbsp;|&nbsp;
   <a href="#sparkles-icons-in-badges">Putting icons in badges</a>&nbsp;|&nbsp;
   <a href="#mag-emojis">Emojis</a>&nbsp;|&nbsp;
   <a href="#memo-license">License</a>
@@ -11,7 +14,6 @@
 
 ## :pushpin: Another Table of Contents
 
-* [Using badges](#medal-sports-badges)
 * [Putting icons in badges](#sparkles-icons-in-badges)
 * [Emojis](#mag-emojis)
 * [License](#memo-license)
@@ -29,7 +31,7 @@ Using [Shields.io](https://shields.io) with github integration [• [Github page
     <img alt="Repository issues" src="https://img.shields.io/github/issues/miguelsoliv/readme-helper">
   </a>
   <img alt="Repository license" src="https://img.shields.io/github/license/miguelsoliv/readme-helper">
-  <a href="https://github.com/miguelsoliv" target="_blank">
+  <a target="_blank" href="https://github.com/miguelsoliv">
     <img alt="Made by Miguel Oliveira" src="https://img.shields.io/badge/made%20by-Miguel_Oliveira-informational">
   </a>
 </p>
