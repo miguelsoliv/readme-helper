@@ -73,4 +73,4 @@ This project is under [MIT license](/LICENSE).
 
 ---
 
-Made with :sparkling_heart: by [Miguel Oliveira](https://github.com/miguelsoliv)
+Made with :sparkling_heart: by [Miguel Oliveira](https://github.com/miguelsoliv) :wave:
