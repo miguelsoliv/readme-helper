@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a style="vertical-align: text-top;" target="_blank" href="https://github.com/miguelsoliv">
+  <a href="https://github.com/miguelsoliv">
     <img alt="Made by Miguel Oliveira" src="https://img.shields.io/badge/made%20by-Miguel_Oliveira-informational?style=for-the-badge">
   </a>
   <img alt="Made with love ♥" src="https://img.shields.io/badge/with-♥-red?style=for-the-badge&logo=git">
@@ -31,11 +31,11 @@
 
 ## :medal_sports: Badges
 
-Using <a href="https://shields.io" target="_blank">Shields.io</a> with github integration [<a href="https://github.com/badges/shields" target="_blank">Github page</a>]
+Using <a href="https://shields.io">Shields.io</a> with github integration [<a href="https://github.com/badges/shields">Github page</a>]
 
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/miguelsoliv/readme-helper">
-  <a href="https://github.com/miguelsoliv/readme-helper/commits/master" target="_blank">
+  <a href="https://github.com/miguelsoliv/readme-helper/commits/master">
     <img alt="Last commit date" src="https://img.shields.io/github/last-commit/miguelsoliv/readme-helper">
   </a>
    <a href="https://github.com/miguelsoliv/readme-helper/issues">
@@ -51,13 +51,13 @@ Using <a href="https://shields.io" target="_blank">Shields.io</a> with github in
 Using [Simple Icons](https://simpleicons.org) [[Github page](https://github.com/simple-icons/simple-icons)]
 
 <p align="center">
-  <a href="https://github.com/miguelsoliv" target="_blank" >
+  <a href="https://github.com/miguelsoliv">
     <img alt="Miguel Oliveira github" src="https://img.shields.io/badge/Github-%23F8952D?style=social&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/miguelsoliv" target="_blank" >
+  <a href="https://www.linkedin.com/in/miguelsoliv">
     <img alt="Miguel Oliveira linkedin" src="https://img.shields.io/badge/Linkedin-%23F8952D?style=social&logo=linkedin">
   </a>
-  <a href="mailto:miguelosoares1@hotmail.com" target="_blank" >
+  <a href="mailto:miguelosoares1@hotmail.com">
     <img alt="Miguel Oliveira email" src="https://img.shields.io/badge/E--mail-%23F8952D?style=social&logo=gmail">
   </a>
 </p>
