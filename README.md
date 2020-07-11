@@ -94,6 +94,8 @@ List of emojis available in Github Markdown:
 - [Github Gist](https://gist.github.com/ricealexander/ae8b8cddc3939d6ba212f953701f53e6) from ricealexander (user)
 - [Github API](https://api.github.com/emojis)
 
+Also, you can use [this](https://emojipedia.org/) and [this](https://getemoji.com/) to copy the emoji itself. Just that easy!
+
 ## :memo: License
 
 This project is under [MIT license](/LICENSE).
